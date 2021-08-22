@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ghgoodreau.github.io&style=for-the-badge&url=https%3A%2F%2Fghgoodreau.github.io)](https://ghgoodreau.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ghgoodreau?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=ghgoodreau)
 
-## I'm a gamer, foodie, student pilot, and engineer
+## I'm a gamer, foodie, movie lover, student pilot, and engineer
 
 - 🔭 Currently front end @ [Zoom](https://zoom.us/)
 - 😄 Pronouns: he/him
@@ -17,6 +17,7 @@
 [<img align="left" alt="ghgoodreau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ghgoodreau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ghgoodreau | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ghgoodreau | Letterboxd" width="22px" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png" />][letterboxd]
 
 <br />
 
@@ -50,3 +51,4 @@
 [twitter]: https://twitter.com/ghgoodreau
 [instagram]: https://instagram.com/ghgoodreau
 [linkedin]: https://linkedin.com/in/ghgdev
+[letterboxd]: https://letterboxd.com/hgoood
