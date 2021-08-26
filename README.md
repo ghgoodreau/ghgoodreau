@@ -35,17 +35,13 @@
 
 ---
 
+<!-- Discord Presence from https://github.com/cnrad/lanyard-profile-readme -->
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/163118061828833280)](https://discord.com/users/163118061828833280)
+
 <!-- GitHub stats from  https://github.com/anuraghazra/github-readme-stats -->
 
-<details>
-
-  <summary> ⚡ Hunter's GitHub Stats</summary>
-
-  <img align="left" alt="Hunter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ghgoodreau&show_icons=true&hide_border=true" />
-
-</details>
-
-<!-- Variables used -->
+  <img align="left" alt="Hunter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ghgoodreau&show_icons=true&hide_border=true&theme=nord" />
 
 [website]: https://ghgoodreau.github.io
 [twitter]: https://twitter.com/ghgoodreau
