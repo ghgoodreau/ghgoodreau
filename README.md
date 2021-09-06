@@ -18,6 +18,7 @@
 [<img align="left" alt="ghgoodreau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ghgoodreau | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ghgoodreau | Letterboxd" width="22px" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png" />][letterboxd]
+[<img align="left" alt="ghgoodreau | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -48,3 +49,4 @@
 [instagram]: https://instagram.com/ghgoodreau
 [linkedin]: https://linkedin.com/in/ghgdev
 [letterboxd]: https://letterboxd.com/hgoood
+[spotify]: https://open.spotify.com/user/o0w44i8fzljecs174msew1adw?si=c0d9f35352544a8e
