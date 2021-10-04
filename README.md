@@ -8,7 +8,7 @@
 - 🔭 Currently front end @ [Zoom](https://zoom.us/)
 - 😄 Pronouns: he/him
 - 🌱 Learning as much as I can
-- 🎮 Current rotation: Valorant, Splitgate
+- 🎮 Current rotation: New World only
 - ⚡ Fun fact: I went backpacking alone in Europe for my 23rd birthday
 
 ### Connect with me
