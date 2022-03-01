@@ -8,8 +8,7 @@
 - 🔭 Currently front end @ [Zoom](https://zoom.us/)
 - 😄 Pronouns: he/him
 - 🌱 Learning as much as I can
-- 🎮 Current rotation: Halo!
-- ⚡ Fun fact: I went backpacking alone in Europe for my 23rd birthday
+- 🎮 Current rotation: Elden Ring
 
 ### Connect with me
 
