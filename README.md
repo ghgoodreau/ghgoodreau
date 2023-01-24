@@ -37,7 +37,7 @@
 
 <!-- Discord Presence from https://github.com/cnrad/lanyard-profile-readme -->
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/163118061828833280)](https://discord.com/users/163118061828833280)
+<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/163118061828833280)](https://discord.com/users/163118061828833280) -->
 
 <!-- GitHub stats from  https://github.com/anuraghazra/github-readme-stats -->
 
