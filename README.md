@@ -6,9 +6,8 @@
 ## I'm a software engineer, student pilot, gamer, traveler
 
 - 🔭 Currently: open source & hackathons while looking for full-time opportunities
-- 🔭 Previously: front end @ [Zoom](https://zoom.us/)
-- 🌱 Learning: mostly AI right now
-- 🎮 Current game: Resident Evil 4
+- 📖 Previously: front end @ [Zoom](https://zoom.us/)
+- 📍 Location: Chicago
 
 <!-- Discord Presence from https://github.com/cnrad/lanyard-profile-readme -->
 
