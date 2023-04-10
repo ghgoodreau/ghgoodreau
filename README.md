@@ -16,6 +16,15 @@
 <!-- GitHub stats from  https://github.com/anuraghazra/github-readme-stats -->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 02 April 2023 - To: 09 April 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <img align="left" alt="Hunter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ghgoodreau&show_icons=true&hide_border=true&theme=nord" />
