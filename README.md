@@ -18,11 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2023 - To: 09 April 2023
+From: 03 April 2023 - To: 10 April 2023
 
-Total Time: 0 secs
+Total Time: 47 mins
 
-No activity tracked
+Markdown     39 mins         >>>>>>>>>>>>>>>>>>>>>----   83.47 %
+TypeScript   5 mins          >>>----------------------   11.52 %
+YAML         2 mins          >------------------------   05.02 %
 ```
 
 <!--END_SECTION:waka-->
