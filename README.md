@@ -18,16 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2023 - To: 21 April 2023
+From: 15 April 2023 - To: 22 April 2023
 
-Total Time: 17 hrs 59 mins
+Total Time: 12 hrs 47 mins
 
-TypeScript   17 hrs 26 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.97 %
-JavaScript   21 mins         -------------------------   01.95 %
-Markdown     7 mins          -------------------------   00.65 %
-JSON         2 mins          -------------------------   00.26 %
-CSS          1 min           -------------------------   00.13 %
-TSConfig     0 secs          -------------------------   00.02 %
+TypeScript   11 hrs 53 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.96 %
+Markdown     51 mins         >>-----------------------   06.69 %
+JavaScript   2 mins          -------------------------   00.29 %
+TSConfig     0 secs          -------------------------   00.03 %
+Other        0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
