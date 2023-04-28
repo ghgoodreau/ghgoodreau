@@ -15,20 +15,6 @@
 
 <!-- GitHub stats from  https://github.com/anuraghazra/github-readme-stats -->
 
-<!--START_SECTION:waka-->
-
-```text
-From: 20 April 2023 - To: 27 April 2023
-
-Total Time: 1 hr 38 mins
-
-Markdown     1 hr 5 mins     >>>>>>>>>>>>>>>>>--------   67.31 %
-TypeScript   28 mins         >>>>>>>------------------   29.53 %
-CSS          3 mins          >------------------------   03.17 %
-```
-
-<!--END_SECTION:waka-->
-
 <img align="left" alt="Hunter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ghgoodreau&show_icons=true&hide_border=true&theme=nord" />
 
 [website]: https://www.iforgotyour.name/
