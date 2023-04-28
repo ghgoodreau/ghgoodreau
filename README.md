@@ -5,7 +5,7 @@
 
 ## I'm a software engineer, student pilot, gamer, traveler
 
-- 🔭 Currently: open source & hackathons while looking for full-time opportunities
+- 🔭 Currently: Freelance + Contractor
 - 📖 Previously: front end @ [Zoom](https://zoom.us/)
 - 📍 Location: Chicago
 
