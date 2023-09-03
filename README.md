@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=iforgotyour.name&style=for-the-badge&url=https%3A%2F%2Fiforgotyour.name)](https://iforgotyour.name)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ghgoodreau?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=ghgoodreau)
 
-## I'm a software engineer, student pilot, gamer, traveler
+## I'm a software engineer and private pilot
 
 - 🔭 Currently: Freelance + Contractor
 - 📖 Previously: front end @ [Zoom](https://zoom.us/)
